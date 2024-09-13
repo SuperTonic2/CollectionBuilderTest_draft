@@ -95,7 +95,7 @@ bootswatch: vapor
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#e4dd59"
-link-color: "#8953a8"
+link-color: "#ffffff"
 base-font-family: Garamond
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
