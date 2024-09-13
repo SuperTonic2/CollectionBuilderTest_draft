@@ -1,16 +1,16 @@
 field,display_name,browse_link,external_link
-title,Hi! My name is:,
-creator,This is the demon who spawned me:,
-date,This is the date of reckoning:,
-description,Statement Begins:,
-subject,Things to avoid at all costs:,true
-location,AVOID:
-latitude,NOPE:
-longitude,NADA:
+title,Hi! My name is,
+creator,This is the demon who spawned me,
+date,This is the date of reckoning,
+description,Statement Begins,
+subject,Things to avoid at all costs,true
+location,AVOID
+latitude,NOPE
+longitude,NADA
 source,[ERROR]
 identifier,[EVEN WORSE ERROR],,
-type,OH GOD OH NO:,
-format,Run while you still can:,
-rights,Wrongs:,
-rightsstatement,WRONGS:,,true
-language,THE ANCIENT TONGUE THAT SUMMONED ME:,
+type,OH GOD OH NO,
+format,Run while you still can,
+rights,Wrongs,
+rightsstatement,WRONGS,,true
+language,THE ANCIENT TONGUE THAT SUMMONED ME,
