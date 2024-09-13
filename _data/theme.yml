@@ -106,15 +106,15 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 icons: 
-icon-image: camerafilm
-icon-audio: gramophone
-icon-video: eye
-icon-pdf: filesmile
-icon-record: fileghost
-icon-compound-object: collection
-icon-multiple: postcard
-icon-default: file-earmark # fall back icon
-icon-back-to-top: hand-index-thumb # scroll to top icon
-arrow-left: catback
-arrow-right: catforward
-arrow-down: arrow-down
+  icon-image: camerafilm
+  icon-audio: gramophone
+  icon-video: eye
+  icon-pdf: filesmile
+  icon-record: fileghost
+  icon-compound-object: collection
+  icon-multiple: postcard
+  icon-default: file-earmark # fall back icon
+  icon-back-to-top: hand-index-thumb # scroll to top icon
+  arrow-left: catback
+  arrow-right: catforward
+  arrow-down: arrow-down
