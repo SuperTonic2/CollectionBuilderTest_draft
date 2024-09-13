@@ -114,7 +114,7 @@ icon-record: fileghost
 icon-compound-object: collection
 icon-multiple: postcard
 icon-default: file-earmark # fall back icon
-icon-back-to-top: arrow-up-square # scroll to top icon
+icon-back-to-top: hand-index-thumb # scroll to top icon
 arrow-left: catback
 arrow-right: catforward
 arrow-down: arrow-down
