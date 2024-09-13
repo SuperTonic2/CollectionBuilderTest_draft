@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,Hi! My name is:,
+creator,This is the demon who spawned me:,
+date,This is the date of reckoning:,
+description,Statement Begins:,
+subject,Things to avoid at all costs:,true
+location,AVOID:
+latitude,NOPE:
+longitude,NADA:
+source,[ERROR]
+identifier,[EVEN WORSE ERROR],,
+type,OH GOD OH NO:,
+format,Run while you still can:,
+rights,Wrongs:,
+rightsstatement,WRONGS:,,true
+language,THE ANCIENT TONGUE THAT SUMMONED ME:,
